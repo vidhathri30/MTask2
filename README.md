@@ -1,3 +1,5 @@
 # MTask2
-<img src ="https://user-images.githubusercontent.com/101579638/231251832-26dd0b4f-03bd-4817-a973-54c97aca6b50.jpeg" width=50% height=80%>
-![WhatsApp Image 2023-04-11 at 11 31 08 PM](https://user-images.githubusercontent.com/101579638/231251846-a20a3094-1373-4ba5-92b8-93b4d73105bc.jpeg)
+<img src="https://user-images.githubusercontent.com/101579638/231252765-0255a2b6-5281-420f-8af9-810abd04e251.jpeg" width=50% height=50%>
+
+<img src="https://user-images.githubusercontent.com/101579638/231252780-dce527c2-d781-49cb-adfa-82a06243777d.jpeg"width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/101579638/231253061-1e9b940a-37fa-46e6-bbae-3da920d1e74a.jpeg"width=50% height=50%>
