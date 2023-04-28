@@ -2,11 +2,9 @@
 
 ### These are some of the images of API task.
 
-<img src="https://user-images.githubusercontent.com/101579638/231252765-0255a2b6-5281-420f-8af9-810abd04e251.jpeg" width=30% height=30%>
-
-<img src="https://user-images.githubusercontent.com/101579638/231252780-dce527c2-d781-49cb-adfa-82a06243777d.jpeg" width=30% height=30%>
-
-<img src="https://user-images.githubusercontent.com/101579638/231253061-1e9b940a-37fa-46e6-bbae-3da920d1e74a.jpeg" width=30% height=30%>
+![WhatsApp Image 2023-04-11 at 11 31 08 PM](https://user-images.githubusercontent.com/101579638/235214782-20c2b566-92e4-4081-a146-628c26fccf34.jpeg)
+![WhatsApp Image 2023-04-11 at 11 31 09 PM](https://user-images.githubusercontent.com/101579638/235214795-5fde73b1-1c3b-4abc-8a99-a24db80a2001.jpeg)
+![WhatsApp Image 2023-04-11 at 11 31 09 PM (1)](https://user-images.githubusercontent.com/101579638/235214810-01ff210f-d81e-4b38-9729-8aa176bf2acd.jpeg)
 
 
 
